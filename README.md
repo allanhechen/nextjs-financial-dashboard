@@ -2,7 +2,7 @@
 
 This repository consists of me going through the [Next.js tutorial](https://nextjs.org/learn/dashboard-app).
 
--   I will be trying to incorporate best software development practices such as development practices (like branching and pull requests) despite being the only person working on this project
+-   I will be trying to incorporate best software development practices such as development practices (like branching and ~~pull requests~~ this one is kind of useless) despite being the only person working on this project
 -   I will dockerize this workspace in an attempt to facilitate easy contribution (I have given up on this for now, it appears that the db object requires some fields I am not familiar with).
 
     ## Contributing
